@@ -18,9 +18,12 @@ background-color: aqua;
     width: 350px;
     border-radius: 15px;
     background: #FFFFFF;
-    
+    margin-top: 100px;
 }
 
+.image{
+    border-radius: 15px 15px 0px 0px;
+}
 
 .name{
     height: 18px;
